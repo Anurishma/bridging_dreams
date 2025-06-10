@@ -1,2 +1,2 @@
-# bridging_dreams
-Bridging Dreams is a web-based platform designed to bridge the gap between aspiring entrepreneurs and potential investors. It facilitates networking, pitching, and funding opportunities by offering a centralized hub for startups to showcase their ideas and for investors to discover high-potential ventures.
+# Bridging_Dreams
+My PBL Project for 3rd Sem.
